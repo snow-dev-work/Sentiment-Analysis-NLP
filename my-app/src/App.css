@@ -1,0 +1,39 @@
+.App {
+  padding: 30px;
+  text-align: center;
+}
+
+textarea {
+  font-size: x-large;
+  width: 1000px;
+  padding: 10px;
+}
+button {
+  margin-top: 10px;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+button:active {
+  background-color: #5e8860; /* Green */
+  border: none;
+  color: rgb(212, 188, 188);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.analysis {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+p {
+  margin-bottom: 2px;
+}
